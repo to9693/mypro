@@ -1,0 +1,30 @@
+[
+    {
+        "pk": 1,
+        "model": "laptops.Program",
+        "fields": {
+            "name": "photoshop"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "laptops.Program",
+        "fields": {
+            "name": "after effects"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "laptops.Program",
+        "fields": {
+            "name": "premiere pro"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "laptops.Program",
+        "fields": {
+            "name": "illustrator"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<div class="alert alert-primary" role="alert">
+        사용하는 프로그램을 선택하세요.
+</div>
+
+<div class="container">
+    <div class = 'row'>
+            <div class="col-12">사진/ 영상 편집 프로그램</div>
+            {% for program in programs %}
+            <div class="col-6">
+            <a href="{% url 'laptops:detail' program.pk %}">{{ program.name }}</a>
+            </div>
+            {% endfor %}
+
+            <div class="col-12">      </div>
+
+            <div class="col-12">게임</div>
+            <div class="col-6">
+            <a href="{}">롤</a>
+            </div>
+            <div class="col-6">
+                <a href="{}">카트라이더</a>
+                </div>
+                <div class="col-6">
+                <a href="{}">오버워치</a>
+                </div>
+                <div class="col-6">
+                <a href="{}">배틀그라운드</a>
+                </div>
+
+
+    </div>
+</div>
+
+
+{% endblock %}

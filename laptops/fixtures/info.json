@@ -1,0 +1,38 @@
+[
+    {
+        "pk": 1,
+        "model": "laptops.Info",
+        "fields": {
+            "laptop": 1,
+            "program": 1,
+            "graphic": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "laptops.Info",
+        "fields": {
+            "laptop": 2,
+            "program": 16,
+            "graphic": 2
+        }
+    },
+    {
+        "pk": 3,
+        "model": "laptops.Info",
+        "fields": {
+            "laptop": 3,
+            "program": 28,
+            "graphic": 3
+        }
+    },
+    {
+        "pk": 4,
+        "model": "laptops.Info",
+        "fields": {
+            "laptop": 4,
+            "program": 48,
+            "graphic": 4
+        }
+    }
+]

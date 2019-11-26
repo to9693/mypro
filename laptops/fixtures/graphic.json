@@ -1,0 +1,678 @@
+[
+    {
+        "pk": 1,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "UHD 620",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                270,
+                2,
+                6,
+                7,
+                8,
+                10,
+                11,
+                14,
+                15,
+                25,
+                27,
+                28,
+                32,
+                46,
+                47,
+                51,
+                55,
+                61,
+                64,
+                65,
+                77,
+                78,
+                85,
+                86,
+                87,
+                91,
+                92,
+                94,
+                95,
+                98,
+                104,
+                108,
+                119,
+                120,
+                121,
+                123,
+                133,
+                134,
+                135,
+                140,
+                143,
+                155,
+                179,
+                180,
+                182,
+                183,
+                185,
+                194,
+                195,
+                197,
+                206,
+                218,
+                219,
+                225,
+                231,
+                232,
+                236,
+                245,
+                247,
+                250,
+                255,
+                257,
+                268
+            ]
+        }
+    },
+    {
+        "pk": 2,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1650",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                1,
+                3,
+                5,
+                18,
+                23,
+                29,
+                31,
+                39,
+                49,
+                56,
+                79,
+                109,
+                111,
+                115,
+                116,
+                122,
+                132,
+                138,
+                146,
+                153,
+                164,
+                166,
+                173,
+                187,
+                188,
+                196,
+                220,
+                235,
+                254,
+                270
+            ]
+        }
+    },
+    {
+        "pk": 3,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1660 Ti",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                7,
+                9,
+                13,
+                17,
+                21,
+                30,
+                36,
+                48,
+                68,
+                72,
+                81,
+                83,
+                93,
+                99,
+                106,
+                107,
+                113,
+                148,
+                154,
+                156,
+                160,
+                168,
+                181,
+                199,
+                202,
+                205,
+                207,
+                224,
+                244
+            ]
+        }
+    },
+    {
+        "pk": 4,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\uc9c0\ud3ec\uc2a4 MX150",
+            "programs": [
+                
+            ],
+            "laptops": [
+                10,
+                12,
+                26,
+                33,
+                42,
+                44,
+                53,
+                63,
+                71,
+                76,
+                161,
+                171,
+                198,
+                230,
+                248
+            ]
+        }
+    },
+
+    {
+        "pk": 5,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "HD 520",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                14,
+                16,
+                19
+            ]
+        }
+    },
+    {
+        "pk": 6,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1050",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                18,
+                20,
+                40,
+                70,
+                80,
+                127,
+                131,
+                145,
+                149,
+                151,
+                165,
+                191,
+                201,
+                212,
+                214,
+                226,
+                258,
+                262,
+                263
+            ]
+        }
+    },
+    {
+        "pk": 7,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\ub77c\ub370\uc628 Pro 555X",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                32,
+                34,
+                66
+            ]
+        }
+    },
+    {
+        "pk": 8,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\ub77c\ub370\uc628 Vega 8",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                33,
+                35,
+                37,
+                50,
+                69,
+                73,
+                82,
+                137
+            ]
+        }
+    },
+    {
+        "pk": 9,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "RTX2060",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                39,
+                41,
+                88,
+                103,
+                124,
+                128,
+                141,
+                147,
+                162,
+                176,
+                190,
+                204,
+                209,
+                210,
+                211,
+                213,
+                222,
+                228,
+                249,
+                253,
+                260,
+                264,
+                266,
+                269
+            ]
+        }
+    },
+    {
+        "pk": 10,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "RTX2080(MAX-Q)",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                41,
+                43
+            ]
+        }
+    },
+    {
+        "pk": 11,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\uc9c0\ud3ec\uc2a4 MX250",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                43,
+                45,
+                52,
+                57,
+                67,
+                74,
+                96,
+                102,
+                157,
+                158,
+                186,
+                203,
+                216,
+                241,
+                252
+            ]
+        }
+    },
+    {
+        "pk": 12,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "HD 620",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                56,
+                58,
+                125,
+                208
+            ]
+        }
+    },
+    {
+        "pk": 13,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\uc9c0\ud3ec\uc2a4 MX230",
+            "programs": [
+
+            ],
+            "laptops": [
+                57,
+                59,
+                167,
+                169,
+                215,
+                221,
+                227
+            ]
+        }
+    },
+    {
+        "pk": 14,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1060",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                58,
+                60,
+                62,
+                89,
+                105,
+                126,
+                159,
+                256,
+                261
+            ]
+        }
+    },
+    {
+        "pk": 15,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "Iris Plus 645",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                73,
+                75,
+                177
+            ]
+        }
+    },
+    {
+        "pk": 16,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "RTX2070",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                88,
+                90,
+                100,
+                136,
+                150,
+                163,
+                170,
+                172,
+                192,
+                242,
+                267
+            ]
+        }
+    },
+    {
+        "pk": 17,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\ub77c\ub370\uc628 Vega 6",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                95
+            ]
+        }
+    },
+    {
+        "pk": 18,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "UHD 610",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                99,
+                110,
+                243
+            ]
+        }
+    },
+    {
+        "pk": 19,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "Iris Plus 655",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                38,
+                112
+            ]
+        }
+    },
+    {
+        "pk": 20,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "HD 610",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                101,
+                110,
+                114,
+                129,
+                234,
+                243
+
+            ]
+        }
+    },
+    {
+        "pk": 21,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "UHD 630",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                117
+            ]
+        }
+    },
+    {
+        "pk": 22,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "UHD 600",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                118
+            ]
+        }
+    },
+    {
+        "pk": 23,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "RTX2070(MAX-Q)",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                130,
+                152,
+                217,
+                223,
+                229,
+                238,
+                246
+            ]
+        }
+    },
+    {
+        "pk": 24,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1650(MAX-Q)",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                138
+            ]
+        }
+    },
+    {
+        "pk": 25,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "\ub77c\ub370\uc628 540",
+            "programs": [
+
+            ],
+            "laptops": [
+                142
+            ]
+        }
+    },
+    {
+        "pk": 26,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "UHD Graphics",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                144,
+                175,
+                178,
+                189
+            ]
+        }
+    },
+    {
+        "pk": 27,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "RTX2060(MAX-Q)",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                174
+            ]
+        }
+    },
+    {
+        "pk": 28,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "HD 615",
+            "programs": [
+                4
+            ],
+            "laptops": [
+                184
+            ]
+        }
+    },
+    {
+        "pk": 29,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1050 Ti",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                151,
+                201,
+                214
+            ]
+        }
+    },
+    {
+        "pk": 30,
+        "model": "laptops.Graphic",
+        "fields": {
+            "name": "GTX1660 Ti(MAX-Q)",
+            "programs": [
+                1,
+                2,
+                4
+            ],
+            "laptops": [
+                240
+            ]
+        }
+    }
+]
